@@ -9,13 +9,13 @@ Backdoors and hidden harmful behaviour represent a severe risk to the safe deplo
 
 Reference: https://github.com/TransformerLensOrg/TransformerLens
 
-## Small Transformer
-![Alt text](assets/figure2.png)
+## Backdoor Implemetation
 ![Alt text](assets/transformerfigure.png)
+![Alt text](assets/figure2.png)
 
 ## Training
 ![Alt text](assets/training.png)
 
-## Results
+## Patching Results
 ![Alt text](assets/evaluationmod1.png)
 ![Alt text](assets/evaluation.png)
